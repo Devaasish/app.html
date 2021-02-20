@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>Successful Page</title>
+        <link rel="stylesheet" href="master.css">
+    </head>
+    <body>
+        <div class="">
+            <h1>Login done successfully!!!</h1>
+            <a href="main.html"><button id="mainLink"></button>Go to the Main Page</a>
+        </div>
+    </body>
+</html>
